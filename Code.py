@@ -89,7 +89,7 @@ def countdown():
 root = tkinter.Tk() 
 
 # set the title 
-root.title("ColorGameForFreeBSD 1.0!") 
+root.title("ColorGameForFreeBSD 2.0! Game made by Jonathan Steadman!") 
 
 # set the size 
 root.geometry("610x380")
@@ -120,7 +120,7 @@ label.pack()
 
 # add a text entry box for 
 # typing in colours 
-e = tkinter.Entry(root) 
+e = tkinter.Entry(root,font= ("Ubuntu", 19)) 
 
 # run the 'startGame' function 
 # when the enter key is pressed 
