@@ -4,4 +4,4 @@ About game: You need to pick what colour the text is but be warned the text will
 Credits: Jonathan Steadman - Did everything lol. End of life: 13th of August 2022. 
 
 Install Ubuntu font in the terminal: pkg install x11-fonts/ubuntu-font
-![Screenshot from 2022-04-11 13-53-06](https://user-images.githubusercontent.com/52569279/162746629-c7883e7b-deb5-44db-ae42-43f150e83bc8.png)
+![Screenshot from 2022-04-16 14-46-06](https://user-images.githubusercontent.com/52569279/163677595-47974210-c031-4eaa-bb10-9083fcd6c405.png)
