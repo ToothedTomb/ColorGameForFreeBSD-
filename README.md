@@ -5,4 +5,4 @@ Credits: Jonathan Steadman - Did everything lol. End of life: 13th of August 202
 
 Install Ubuntu font in the terminal: pkg install x11-fonts/ubuntu-font
 
-![Screenshot from 2022-04-22 13-43-15](https://user-images.githubusercontent.com/52569279/164716744-0fc6c0ef-af70-493b-8392-29aa4d9a639b.png)
+![Screenshot from 2022-05-22 12-49-11](https://user-images.githubusercontent.com/52569279/169693757-1f333196-08d2-477e-9fa2-d1b46a8acb86.png)
